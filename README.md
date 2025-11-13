@@ -30,7 +30,7 @@ This repository contains the complete set of assignments for the GoIT Python Cor
 - **Program:** GoIT Neoversity
 - **Timeline:** September — November 2025
 - **Format:** Remote, with practical development in VS Code and GitHub
-- **Focus:** Foundation in Python for automation, analytics, backend development, and business/Human Resources process innovation
+- **Focus:** Foundation in Python for automation, analytics, backend development
 
 ---
 
